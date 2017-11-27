@@ -46,6 +46,8 @@
                 android:value=".MainActivity" />
         </activity>
 
+    <activity android:name=".SettingsActivity"/>
+
     </application>
 
 </manifest>

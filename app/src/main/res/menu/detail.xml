@@ -22,7 +22,7 @@
         android:title="@string/action_share"
         app:showAsAction="always"/>
     <item
-        android:id="@+id/settings_option"
+        android:id="@+id/action_settings"
         android:title="Settings Option"
         app:showAsAction="never"
         />
